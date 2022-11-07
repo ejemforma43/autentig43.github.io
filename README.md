@@ -1,2 +1,0 @@
-# autenticación
-Ejemplo de autenticación
